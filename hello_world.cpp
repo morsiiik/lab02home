@@ -1,5 +1,5 @@
 #include <iostream>
-//добавил комментарии
+//added comments and changed language
 int main() {
 	std::string name;
 	std::cin>>name;
